@@ -1,10 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://iptv-org.github.io/iptv/index.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-
-
+https://raw.githubusercontent.com/hehonghui/simple-iptv/main/simple.m3u
 
 
 [WHITELIST]
